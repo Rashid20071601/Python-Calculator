@@ -1,0 +1,317 @@
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 38
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 63
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 132
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 229
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 233
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 273
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 292
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 320
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 382
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 437
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 449
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 479
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 524
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 534
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 573
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 624
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 681
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 682
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 816
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 862
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 914
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 934
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 964
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 1084
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 1106
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 1128
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 1178
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 1188
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 1203
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 1220
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 1237
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 1251
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 1298
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 1354
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 1372
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 1393
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 1400
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 1462
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 1479
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 1529
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 1543
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 1565
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 1630
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 1632
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 1639
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 1640
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 1643
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 1659
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 1673
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 1688
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 1701
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 1751
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 1852
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 1879
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 1907
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 2007
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 2122
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 2150
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 2162
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 2184
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 2258
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 2289
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 2296
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 2306
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 2315
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 2343
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 2379
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 2393
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 2415
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 2419
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 2428
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 2442
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 2456
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 2547
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 2558
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 2565
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 2571
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 2690
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 2713
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 2741
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 2797
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 2832
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 2863
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 2897
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 2903
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 3012
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 3090
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 3117
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 3212
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 3221
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 3233
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 3281
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 3301
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 3337
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 3369
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 3392
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 3397
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 3406
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 3440
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 3456
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 3486
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 3499
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 3536
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 3544
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 3613
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 3619
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 3621
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 3685
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 3733
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 3740
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 3748
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 3779
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 3785
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 3917
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 3971
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 3985
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 4042
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 4063
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 4069
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 4084
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 4092
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 4112
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 4189
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 4215
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 4271
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 4316
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 4330
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 4341
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 4373
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 4388
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 4414
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 4424
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 4498
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 4519
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 4521
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 4547
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 4598
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 4634
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 4658
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 4668
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 4697
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 4708
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 4786
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 4805
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 4811
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 4834
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 4880
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 4890
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 4899
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 4905
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 4924
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 4938
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 4982
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 4988
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 5004
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 5009
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 5017
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 5023
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 5032
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5054
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 5142
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5155
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5162
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5170
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 5204
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 5235
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 5265
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 5286
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 5298
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 5300
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 5329
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5343
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 5378
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5417
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 5455
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 5480
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 5502
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 5519
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5551
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 5598
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 5612
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 5635
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 5644
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5645
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 5665
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5702
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 5717
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 5724
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5808
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 5844
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5858
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5867
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 5878
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 5890
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 5927
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 5939
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 5965
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 6103
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 6109
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 6110
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 6148
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 6156
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 6164
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 6267
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 6277
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 6285
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 6301
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 6358
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 6469
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 6492
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 6511
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 6534
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 6582
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 6650
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 6681
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 6714
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 6743
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 6788
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 6789
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 6799
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 6857
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 6859
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 6889
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 6943
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 6958
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 6996
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 6999
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 7037
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 7129
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 7132
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 7137
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 7146
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 7163
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 7169
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 7333
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 7346
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 7357
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 7378
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 7386
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 7447
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 7463
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 7469
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 7495
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 7502
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 7507
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 7520
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 7572
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 7574
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 7604
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 7613
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 7647
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 7654
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 7788
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 7869
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 7870
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 7909
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 7970
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 8007
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 8129
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 8279
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 8334
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 8380
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 8446
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 8474
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 8490
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 8530
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 8631
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 8639
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 8681
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 8726
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 8757
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 8764
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 8767
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 8799
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 8888
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 8914
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 8918
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 8928
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 8987
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 8994
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 9003
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 9005
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 9007
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 9015
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 9028
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 9049
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 9076
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 9078
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 9092
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 9109
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 9155
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 9274
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 9328
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 9384
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 9390
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 9394
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 9395
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '-'). Строка ошибки - 9413
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 9439
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 9465
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 9488
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 9546
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '%'). Строка ошибки - 9599
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '*'). Строка ошибки - 9615
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 9632
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 9640
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 9649
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '+'). Строка ошибки - 9777
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '/'). Строка ошибки - 9792
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 9798
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 9870
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 1)). Строка ошибки - 9924
+Ошибка! Не удалось перевести в число (invalid literal for int() with base 10: '//'). Строка ошибки - 9926
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 0)). Строка ошибки - 9935
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 9938
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 9984
+Ошибка! Не хватает данных для выполнения операции (not enough values to unpack (expected 3, got 2)). Строка ошибки - 10000
